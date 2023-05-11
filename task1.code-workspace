@@ -1,0 +1,15 @@
+{
+	"folders": [
+		{
+			"path": "E:/"
+		}
+	],
+	"settings": {
+		"git.ignoreLimitWarning": true,
+		"git.decorations.enabled": true,
+		"git.autorefresh": true,
+		"git.enableStatusBarSync": true,
+		"git.suggestSmartCommit": true,
+		"github.gitAuthentication": true
+	}
+}
